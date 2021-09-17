@@ -1,0 +1,8 @@
+{
+	"realm": "SharperShape",
+	"auth-server-url": "https://keycloak.eu.sharpershape.services/auth/",
+	"ssl-required": "external",
+	"resource": "ios",
+	"public-client": true,
+	"confidential-port": 0
+}
